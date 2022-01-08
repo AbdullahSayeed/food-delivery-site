@@ -1,0 +1,19 @@
+/* Navigation section */
+#navbar{
+    flex-direction: column;
+}
+/* Home section */
+#home{
+    height: 450;
+}
+#home::before{
+    height: 700px;
+}
+/* Service section */
+#services{
+    flex-direction: column;
+    
+}
+/* Client Section */
+/* Contact Section */
+/* Footer section */
